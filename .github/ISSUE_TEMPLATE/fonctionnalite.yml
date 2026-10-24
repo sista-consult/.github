@@ -1,0 +1,16 @@
+name: Demander une fonctionnalité
+description: Une nouvelle fonctionnalité ou une amélioration
+labels: ["fonctionnalite"]
+body:
+  - type: textarea
+    id: besoin
+    attributes:
+      label: Quel est le besoin ?
+      description: Qui en a besoin, et pour faire quoi.
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Solution proposée
+      description: Facultatif.
