@@ -11,4 +11,4 @@
 - mettre dans un dépôt un fichier `.env`, un mot de passe, une clé ou des documents clients ;
 - fusionner une pull request dont le contrôle est rouge.
 
-Procédures complètes : dépôt `sista-docs` (réservé aux membres de l'organisation).
+Procédures complètes : dépôt `sista-docs` (réservé aux chefs de projet).
